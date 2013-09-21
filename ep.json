@@ -1,0 +1,14 @@
+{
+  "parts":[
+    {
+      "name": "pad_title",
+      "hooks":{
+        "clientVars":"ep_pad_title/index:clientVars",
+        "eejsBlock_scripts":"ep_pad_title/index:eejsBlock_scripts"
+      },
+      "client_hooks": {
+        "aceInitialized": "ep_pad_title/static/js/init"
+      }
+    }
+  ]
+}
