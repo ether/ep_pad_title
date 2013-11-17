@@ -1,4 +1,4 @@
-Set a static pad title
+Set a static pad document.window title
 ============================
 As above.
 
