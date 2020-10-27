@@ -13,5 +13,9 @@
   },
   "contributors": [],
   "_id": "ep_pad_title@0.0.1",
-  "_from": "ep_pad_title@"
+  "_from": "ep_pad_title@",
+  "funding": {
+    "type": "individual",
+    "url": "http://etherpad.org/"
+  }
 }
