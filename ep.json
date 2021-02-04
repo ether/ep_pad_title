@@ -3,8 +3,7 @@
     {
       "name": "pad_title",
       "hooks":{
-        "clientVars":"ep_pad_title/index:clientVars",
-        "eejsBlock_scripts":"ep_pad_title/index:eejsBlock_scripts"
+        "clientVars":"ep_pad_title/index:clientVars"
       },
       "client_hooks": {
         "aceInitialized": "ep_pad_title/static/js/init"
