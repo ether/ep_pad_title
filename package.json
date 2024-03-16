@@ -1,7 +1,7 @@
 {
   "name": "ep_pad_title",
   "description": "Set the pad title to a static string",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "author": {
     "name": "John McLear",
     "email": "john@mclear.co.uk",
@@ -12,7 +12,6 @@
     "url": "https://github.com/johnmclear/ep_pad_title"
   },
   "contributors": [],
-  "_id": "ep_pad_title@0.0.1",
   "_from": "ep_pad_title@",
   "funding": {
     "type": "individual",
