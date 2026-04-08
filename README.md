@@ -1,4 +1,4 @@
-![Publish Status](https://github.com/ether/ep_pad_title/workflows/Node.js%20Package/badge.svg) ![Backend Tests Status](https://github.com/ether/ep_pad_title/workflows/Backend%20tests/badge.svg)
+![Publish Status](https://github.com/ether/ep_pad_title/workflows/Node.js%20Package/badge.svg) [![Backend Tests Status](https://github.com/ether/ep_pad_title/actions/workflows/test-and-release.yml/badge.svg)](https://github.com/ether/ep_pad_title/actions/workflows/test-and-release.yml)
 
 Set a static pad document.window title
 ============================
